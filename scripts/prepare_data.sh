@@ -2,7 +2,7 @@
 
 mkdir -p data
 cd data
-gdown "https://drive.google.com/uc?id=1untXhYOLQtpNEy4GTY_0fL_H-k6cTf_r"
+gdown "https://drive.google.com/file/d/17xX4qKN03P49yPJlMghyDFabB0-WOMqP/view?usp=sharing"
 unzip vibe_data.zip
 rm vibe_data.zip
 cd ..
