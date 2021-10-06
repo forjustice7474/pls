@@ -47,7 +47,7 @@ from lib.utils.demo_utils import (
     download_ckpt,
 )
 
-MIN_NUM_FRAMES = 27
+MIN_NUM_FRAMES = 17
 
 
 def main(args):
